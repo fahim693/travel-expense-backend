@@ -1,2 +1,2 @@
-# express-mysql-boilerplate
+# SplitExpense
 Travel expense management app
